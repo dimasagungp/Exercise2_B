@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Exercise2_KelasB</string>
+    <string name="nama">Nama</string>
+    <string name="notel">Nomor Telepon</string>
+    <string name="detailkontak">Detail Kontak</string>
+    <string name="mDaftar">Pendaftaran</string>
+    <string name="lihatdata">Lihat Data</string>
+    <string name="editdata">Edit Data</string>
+    <string name="enama">Nama</string>
+    <string name="etelpon">Telpon</string>
+
+</resources>
